@@ -1,0 +1,22 @@
+# dependencies
+/node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+
+
+
+/yarn-error.log
+
+.byebug_history
+
+.DS_Store
+
+/shared
